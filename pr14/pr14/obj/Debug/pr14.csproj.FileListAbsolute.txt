@@ -1,0 +1,10 @@
+D:\vs_studio_projects\pr14\pr14\bin\Debug\pr14.exe.config
+D:\vs_studio_projects\pr14\pr14\bin\Debug\pr14.exe
+D:\vs_studio_projects\pr14\pr14\bin\Debug\pr14.pdb
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.csproj.AssemblyReference.cache
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.Form1.resources
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.Properties.Resources.resources
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.csproj.GenerateResource.cache
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.csproj.CoreCompileInputs.cache
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.exe
+D:\vs_studio_projects\pr14\pr14\obj\Debug\pr14.pdb
