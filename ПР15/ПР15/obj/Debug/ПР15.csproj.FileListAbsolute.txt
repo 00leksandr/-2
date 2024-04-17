@@ -1,0 +1,10 @@
+D:\vs_studio_projects\ПР15\ПР15\bin\Debug\ПР15.exe.config
+D:\vs_studio_projects\ПР15\ПР15\bin\Debug\ПР15.exe
+D:\vs_studio_projects\ПР15\ПР15\bin\Debug\ПР15.pdb
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.csproj.AssemblyReference.cache
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.Form1.resources
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.Properties.Resources.resources
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.csproj.GenerateResource.cache
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.csproj.CoreCompileInputs.cache
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.exe
+D:\vs_studio_projects\ПР15\ПР15\obj\Debug\ПР15.pdb
