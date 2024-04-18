@@ -1,0 +1,10 @@
+D:\vs_studio_projects\ПР16\ПР16\bin\Debug\ПР16.exe.config
+D:\vs_studio_projects\ПР16\ПР16\bin\Debug\ПР16.exe
+D:\vs_studio_projects\ПР16\ПР16\bin\Debug\ПР16.pdb
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.csproj.AssemblyReference.cache
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.Form1.resources
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.Properties.Resources.resources
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.csproj.GenerateResource.cache
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.csproj.CoreCompileInputs.cache
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.exe
+D:\vs_studio_projects\ПР16\ПР16\obj\Debug\ПР16.pdb
