@@ -1,0 +1,13 @@
+D:\vs_studio_projects\PR17\PR17\bin\Debug\PR17.exe.config
+D:\vs_studio_projects\PR17\PR17\bin\Debug\PR17.exe
+D:\vs_studio_projects\PR17\PR17\bin\Debug\PR17.pdb
+D:\vs_studio_projects\PR17\PR17\bin\Debug\Newtonsoft.Json.dll
+D:\vs_studio_projects\PR17\PR17\bin\Debug\Newtonsoft.Json.xml
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.csproj.AssemblyReference.cache
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.Form1.resources
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.Properties.Resources.resources
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.csproj.GenerateResource.cache
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.csproj.CoreCompileInputs.cache
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.csproj.Up2Date
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.exe
+D:\vs_studio_projects\PR17\PR17\obj\Debug\PR17.pdb
